@@ -1,5 +1,11 @@
 # replacer
 small h replacing script i wrote with python cuz i was bored but it may come in handy idk
+
+## Usage
+
+just put any text that has both G and g in the text.txt
+and run the script, then it will clean your text
+
 ## Building from source
 
 ### Linux
