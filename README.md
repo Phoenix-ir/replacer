@@ -2,7 +2,7 @@
 small h replacing script i wrote with python cuz i was bored but it may come in handy idk
 ## Building from source
 
-### linux
+### Linux
 ```
 have python 3
 ```
