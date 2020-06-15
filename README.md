@@ -14,7 +14,7 @@ python repHh.py
 ```
 *in the terminal while in the script directory*
 
-### 
+### Windows 
 
 if you dont trust the executable just build from source
 
