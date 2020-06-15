@@ -8,10 +8,13 @@ if you dont trust the executable just build from source
 ```
 Get python 3.6.8 then
 ```
+```
 pip install auto-py-to-exe
+```
 ```
 and after that
 ```
+```
 auto-py-to-exe
 ```
-in cmd, and from then on its gui so ez, enjoy!
+in cmd, or the terminal for linux and from then on its gui so ez, enjoy!
